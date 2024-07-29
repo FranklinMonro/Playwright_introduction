@@ -1,0 +1,14 @@
+{
+  "name": "playwright_introduction",
+  "version": "1.0.0",
+  "description": "Introduction to Playwright for End-to-End Testing with Debbie O'Brien",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.0"
+  }
+}
